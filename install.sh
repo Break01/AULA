@@ -1,12 +1,12 @@
 #!/usr/bin/bash
 pkg upgrade
 cd
-git clone https://github.com/Darkksinh/bot4.0-
+git clone https://github.com/Break01/AULA
 clear
-cd ./bot4.0-
+cd ./AULA
 bash install.sh
 cd
-cd ./bot4.0-
+cd ./AULA
 npm start
 
-echo "[*] obrigado por utilizar o bot \"darkbot\" dark agradece"
+echo "[*] obrigado por utilizar o bot  seu  gay de  bosta "
